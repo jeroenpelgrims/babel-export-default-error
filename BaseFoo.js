@@ -1,5 +1,5 @@
 export default class BaseFoo {
-  static talk() {
+  talk() {
     console.log('BaseFoo.talk');
   }
 }
